@@ -1,5 +1,5 @@
-| level | content | click |
+| num  | paper | author |
 | ------ | ------ | ------ |
-| [一级笔记](https://www.cnblogs.com/ffxz/articles/12609777.html) |Increasing Compactness Of Deep Learning Based Speech Enhancement Models With Parameter Pruning And Quantization Techniques | 5000 |
-| 二级笔记 | Increasing Compactness Of Deep Learning Based Speech Enhancement Models With Parameter Pruning And Quantization Techniques | 3000 |
-| 三级笔记 |Increasing Compactness Of Deep Learning Based Speech Enhancement Models With Parameter Pruning And Quantization Techniques| 20 |
+| [1](https://github.com/ffxz/PaperNotes/blob/master/paper_list/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques.md) |Increasing Compactness Of Deep Learning Based Speech Enhancement Models With Parameter Pruning And Quantization Techniques | 5000 |
+| [2] |  | 3000 |
+| [3] || 20 |
