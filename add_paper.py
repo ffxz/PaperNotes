@@ -32,15 +32,15 @@ def insert_notes(path, content, line=0):
 
 def add_paper(args):
     tags = args.tags
-    notes = args.notes  # "on the difficulty of training rnn"
+    notes = args.notes
     notes = notes.replace(' ', '_')
     author = args.author
-    pdf_address = args.pdf_address  # "https://arxiv.org/pdf/1211.5063.pdf"
+    pdf_address = args.pdf_address
     years = args.years
 
     github_address = "https://github.com/ffxz/PaperNotes/blob/master/"
-    tags_address = "https://github.com/ffxz/PaperNotes/blob/master/tags/" + args.tags + ".md" #"https://github.com/ffxz/PaperNotes/blob/master/tags/train_method.md"
-    notes_address = "https://github.com/ffxz/PaperNotes/blob/master/paper_list/" + notes + ".md"#https://github.com/ffxz/PaperNotes/blob/master/paper_list/on_the_difficulty_of_training_rnn.md"
+    tags_address = github_address + "tags/" + args.tags + ".md"
+    notes_address = github_address + "paper_list/" + notes + ".md"
     readme_line = "|[" + tags + "](" + tags_address + ")|[" + notes.replace('_', ' ') + "](" + notes_address + ")|" + author + " |[pdf](" + pdf_address +")|" + years + "|"
     #write_content("README.md", readme_line)
     insert_notes("README.md", readme_line, 3)
@@ -59,7 +59,6 @@ def add_paper(args):
         write_content("tags/" + tags + '.md', "| ------ | ------ | ------ |")
         tags_line = "|[1]|[" + notes.replace('_', ' ') + "](" + notes_address + ")|" + years + "|"
         write_content("tags/" + tags + '.md', tags_line)
-
 
     notes_line1 = "|[一级笔记]|[" + notes.replace('_', ' ') + "](" + os.path.join(github_address, "level_1", notes+".md") + ")|"
     notes_line2 = "|[二级笔记]|[" + notes.replace('_', ' ') + "](" + os.path.join(github_address, "level_2", notes+".md") + ")|"
