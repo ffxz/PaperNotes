@@ -16,6 +16,20 @@ def create_file(file_name):
     file1.close()
 
 
+def insert_notes(path, content, line=0):
+    lines = []
+    with open(path) as r:
+        for l in r:
+            lines.append(l)
+    if line == 0:
+        lines.insert(0, '{}\n'.format(content))
+    else:
+        lines.insert(line-1, '{}\n'.format(content))
+    s = ''.join(lines)
+    with open(path, 'w') as m:
+        m.write(s)
+
+
 def add_paper(args):
     tags = args.tags
     notes = args.notes  # "on the difficulty of training rnn"
@@ -28,15 +42,17 @@ def add_paper(args):
     tags_address = "https://github.com/ffxz/PaperNotes/blob/master/tags/" + args.tags + ".md" #"https://github.com/ffxz/PaperNotes/blob/master/tags/train_method.md"
     notes_address = "https://github.com/ffxz/PaperNotes/blob/master/paper_list/" + notes + ".md"#https://github.com/ffxz/PaperNotes/blob/master/paper_list/on_the_difficulty_of_training_rnn.md"
     readme_line = "|[" + tags + "](" + tags_address + ")|[" + notes.replace('_', ' ') + "](" + notes_address + ")|" + author + " |[pdf](" + pdf_address +")|" + years + "|"
-    write_content("README.md", readme_line)
+    #write_content("README.md", readme_line)
+    insert_notes("README.md", readme_line, 3)
 
     if os.path.exists("tags/"+tags+'.md'):
         #read first num
         tags_file = open("tags/"+tags+'.md', 'r')
         lines = tags_file.readlines()
-        num = str(int(lines[-1][2])+1)
+        num = str(int(lines[3][2])+1)
         tags_line = "|[" + num + "]|[" + notes.replace('_', ' ') + "](" + notes_address + ")|" + years + "|"
-        write_content("tags/" + tags + '.md', tags_line)
+        #write_content("tags/" + tags + '.md', tags_line)
+        insert_notes("tags/" + tags + '.md', tags_line, 4)
     if not os.path.exists("tags/"+tags+'.md'):
         create_file("tags/"+tags+'.md')
         write_content("tags/" + tags + '.md', "| num | paper | years |")
