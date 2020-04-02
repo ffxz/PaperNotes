@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72da3e34-120e-4f33-9d8e-57b373039bab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/add_paper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_1/pp_pq.md" beforeDir="false" afterPath="$PROJECT_DIR$/level_1/pp_pq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_paper.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_paper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level_1/Supervised_speech_separation_based_on_deep_learning_An_overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level_2/Supervised_speech_separation_based_on_deep_learning_An_overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level_3/Supervised_speech_separation_based_on_deep_learning_An_overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper_list/Supervised_speech_separation_based_on_deep_learning_An_overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/overview.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,38 +46,26 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="45">
-                <caret line="3" column="231" selection-start-line="3" selection-start-column="231" selection-end-line="3" selection-end-column="231" />
+                <caret line="3" column="315" selection-start-line="3" selection-start-column="315" selection-end-line="3" selection-end-column="315" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/add_paper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bb.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="61" lean-forward="true" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/add_paper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="49" column="62" lean-forward="true" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,8 +96,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/bb.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/add_paper.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -140,6 +133,11 @@
             <path>
               <item name="PaperNotes" type="b2602c69:ProjectViewProjectNode" />
               <item name="PaperNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="level_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PaperNotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PaperNotes" type="462c0819:PsiDirectoryNode" />
               <item name="paper_list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -154,6 +152,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -213,12 +212,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585728138723</updated>
-      <workItem from="1585728140269" duration="8985000" />
+      <workItem from="1585728140269" duration="9431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8985000" />
+    <option name="totallyTimeSpent" value="9431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="139" width="1440" height="831" extended-state="0" />
@@ -260,16 +259,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bb.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="61" lean-forward="true" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/paper_list/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -291,23 +280,41 @@
     <entry file="file://$PROJECT_DIR$/add_notes.sh">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/bb.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="231" selection-start-line="3" selection-start-column="231" selection-end-line="3" selection-end-column="231" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="61" lean-forward="true" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bb1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/add_paper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="428">
+          <caret line="49" column="62" lean-forward="true" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="315" selection-start-line="3" selection-start-column="315" selection-end-line="3" selection-end-column="315" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
