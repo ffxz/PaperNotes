@@ -32,9 +32,9 @@ def add_paper(args):
     tags_line = "|[·]|[" + notes + "](" + notes_address + ")|" + years + "|"
     if not os.path.exists("tags/"+tags+'.md'):
         create_file("tags/"+tags+'.md')
-    if os.path.exists("tags/"+tags+'.md'):
         write_content("tags/" + tags + '.md', "| num | paper | years |")
         write_content("tags/" + tags + '.md', "| ------ | ------ | ------ |")
+    if os.path.exists("tags/"+tags+'.md'):
         write_content("tags/"+tags+'.md', tags_line)
 
     notes_line1 = "|[一级笔记]|[" + notes + "](" + os.path.join(github_address, "level_1", args.notes+".md") + ")|"
@@ -43,10 +43,10 @@ def add_paper(args):
 
     if not os.path.exists("paper_list/" + notes + '.md'):
         create_file("paper_list/" + notes + '.md')
-
-    if os.path.exists("paper_list/" + notes + '.md'):
         write_content("paper_list/" + notes + '.md', "| level | content |")
         write_content("paper_list/" + notes + '.md', "| ------ | ------ |")
+
+    if os.path.exists("paper_list/" + notes + '.md'):
         create_file(os.path.join("level_1", args.notes+".md"))
         write_content("paper_list/" + notes + '.md', notes_line1)
         create_file(os.path.join("level_2", args.notes+".md"))
