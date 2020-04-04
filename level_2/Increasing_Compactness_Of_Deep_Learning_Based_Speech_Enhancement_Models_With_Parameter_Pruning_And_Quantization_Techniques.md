@@ -18,7 +18,7 @@
 提出的方法：
        
     PQ和PP技术的结合
-    
+![fig1](https://github.com/ffxz/PaperNotes/blob/master/fig/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques/fig1.png)
 
 
 实验验证：
