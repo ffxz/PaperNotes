@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72da3e34-120e-4f33-9d8e-57b373039bab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/level_2/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques.md" beforeDir="false" afterPath="$PROJECT_DIR$/level_2/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_notes.sh" beforeDir="false" afterPath="$PROJECT_DIR$/add_notes.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_paper.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_paper.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,12 +52,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/level_2/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="328">
-                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <first_editor relative-caret-position="330">
+                <caret line="22" selection-start-line="22" selection-end-line="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -111,17 +113,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/add_paper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="78" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="457">
+              <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/add_notes.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="166" selection-start-column="166" selection-end-column="166" />
+              <caret column="229" selection-start-column="229" selection-end-column="229" />
             </state>
           </provider>
         </entry>
@@ -170,13 +172,13 @@
         <option value="$PROJECT_DIR$/push_file.sh" />
         <option value="$PROJECT_DIR$/level_1/on_the_difficulty_of_training_rnn.md" />
         <option value="$PROJECT_DIR$/infer.py" />
-        <option value="$PROJECT_DIR$/add_notes.sh" />
-        <option value="$PROJECT_DIR$/add_paper.py" />
         <option value="$PROJECT_DIR$/level_2/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques.md" />
+        <option value="$PROJECT_DIR$/add_paper.py" />
+        <option value="$PROJECT_DIR$/add_notes.sh" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="-51" />
     <option name="y" value="129" />
     <option name="width" value="1440" />
@@ -187,7 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,6 +215,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,18 +294,19 @@
       <workItem from="1585842234865" duration="3843000" />
       <workItem from="1585897493299" duration="1017000" />
       <workItem from="1585984570594" duration="910000" />
-      <workItem from="1585985896273" duration="1241000" />
+      <workItem from="1585985896273" duration="1867000" />
+      <workItem from="1586529362618" duration="117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23969000" />
+    <option name="totallyTimeSpent" value="24712000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-51" y="129" width="1440" height="831" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30472103" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3090129" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -316,7 +319,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.24492557" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.24457832" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -479,13 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/add_notes.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="166" selection-start-column="166" selection-end-column="166" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/push_file.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -493,20 +489,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/add_paper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/level_2/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="328">
-            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <first_editor relative-caret-position="330">
+            <caret line="22" selection-start-line="22" selection-end-line="22" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_paper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_notes.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="229" selection-start-column="229" selection-end-column="229" />
         </state>
       </provider>
     </entry>
