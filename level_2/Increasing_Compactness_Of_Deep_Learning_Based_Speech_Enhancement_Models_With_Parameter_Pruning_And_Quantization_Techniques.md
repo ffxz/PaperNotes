@@ -21,7 +21,7 @@
 ![fig1](https://github.com/ffxz/PaperNotes/blob/master/fig/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques/fig1.png)
 
     PQ采用kmeans对训练好的参数进行聚类划分，如fig2所示，对网络参数分为四类并得到中心点数值，并通过量化位数检索的方式获取中心数值。并且通过计算压缩率是2.16（这种数值量化方式会损失一定的精度，但又优于直接量化带来的损失）
-![fig2](![fig1](https://github.com/ffxz/PaperNotes/blob/master/fig/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques/fig2.png))
+![fig2](https://github.com/ffxz/PaperNotes/blob/master/fig/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques/fig2.png)
     
 
 实验验证：
