@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72da3e34-120e-4f33-9d8e-57b373039bab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fig/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques/fig2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_notes.sh" beforeDir="false" afterPath="$PROJECT_DIR$/add_notes.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/add_paper.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_paper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level_1/Learning_both_Weights_and_Connections_for_Efficient_Neural_Networks.md" beforeDir="false" afterPath="$PROJECT_DIR$/level_1/Learning_both_Weights_and_Connections_for_Efficient_Neural_Networks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level_2/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques.md" beforeDir="false" afterPath="$PROJECT_DIR$/level_2/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,20 +34,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" selection-start-line="8" selection-end-line="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/level_1/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+              <first_editor relative-caret-position="135">
+                <caret line="9" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -57,7 +47,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="330">
-                <caret line="22" selection-start-line="22" selection-end-line="22" />
+                <caret line="22" column="95" selection-start-line="22" selection-start-column="95" selection-end-line="22" selection-end-column="95" />
               </first_editor>
               <second_editor />
             </state>
@@ -65,65 +55,41 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/compress_SE.md">
+        <entry file="file://$PROJECT_DIR$/level_1/Learning_both_Weights_and_Connections_for_Efficient_Neural_Networks.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/SE_model.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/train_method.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/overview.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/add_paper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/add_paper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="79" column="4" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/add_notes.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="229" selection-start-column="229" selection-end-column="229" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tags/ASR.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -172,15 +138,15 @@
         <option value="$PROJECT_DIR$/push_file.sh" />
         <option value="$PROJECT_DIR$/level_1/on_the_difficulty_of_training_rnn.md" />
         <option value="$PROJECT_DIR$/infer.py" />
-        <option value="$PROJECT_DIR$/level_2/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques.md" />
-        <option value="$PROJECT_DIR$/add_paper.py" />
         <option value="$PROJECT_DIR$/add_notes.sh" />
+        <option value="$PROJECT_DIR$/level_2/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques.md" />
+        <option value="$PROJECT_DIR$/level_1/Learning_both_Weights_and_Connections_for_Efficient_Neural_Networks.md" />
+        <option value="$PROJECT_DIR$/add_paper.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="-51" />
-    <option name="y" value="129" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="69" />
     <option name="width" value="1440" />
     <option name="height" value="831" />
   </component>
@@ -195,6 +161,16 @@
             <path>
               <item name="PaperNotes" type="b2602c69:ProjectViewProjectNode" />
               <item name="PaperNotes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PaperNotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PaperNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="fig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PaperNotes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PaperNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="level_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PaperNotes" type="b2602c69:ProjectViewProjectNode" />
@@ -295,12 +271,12 @@
       <workItem from="1585897493299" duration="1017000" />
       <workItem from="1585984570594" duration="910000" />
       <workItem from="1585985896273" duration="1867000" />
-      <workItem from="1586529362618" duration="117000" />
+      <workItem from="1586529362618" duration="5117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24712000" />
+    <option name="totallyTimeSpent" value="29712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -344,14 +320,6 @@
           <first_editor relative-caret-position="60">
             <caret line="4" column="136" selection-start-line="4" selection-start-column="136" selection-end-line="4" selection-end-column="136" />
           </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paper_list/on_the_difficulty_of_training_rnn.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -406,40 +374,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/load_tflite.py" />
     <entry file="file://$PROJECT_DIR$/infer.py" />
-    <entry file="file://$PROJECT_DIR$/level_1/on_the_difficulty_of_training_rnn.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/level_2/on_the_difficulty_of_training_rnn.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/level_1/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -472,6 +410,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/push_file.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_notes.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="229" selection-start-column="229" selection-end-column="229" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags/ASR.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper_list/on_the_difficulty_of_training_rnn.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level_1/on_the_difficulty_of_training_rnn.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tags/overview.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -482,10 +460,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/push_file.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+    <entry file="file://$PROJECT_DIR$/level_1/Increasing_Compactness_Of_Deep_Learning_Based_Speech_Enhancement_Models_With_Parameter_Pruning_And_Quantization_Techniques.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level_2/Learning_both_Weights_and_Connections_for_Efficient_Neural_Networks.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -493,7 +492,17 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="330">
-            <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <caret line="22" column="95" selection-start-line="22" selection-start-column="95" selection-end-line="22" selection-end-column="95" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level_1/Learning_both_Weights_and_Connections_for_Efficient_Neural_Networks.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
@@ -501,15 +510,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/add_paper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/add_notes.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="229" selection-start-column="229" selection-end-column="229" />
+        <state relative-caret-position="265">
+          <caret line="79" column="4" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
         </state>
       </provider>
     </entry>

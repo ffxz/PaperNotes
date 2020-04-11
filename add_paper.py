@@ -77,7 +77,7 @@ def add_paper(args):
         create_file(os.path.join("level_3", notes + ".md"))
         write_content("paper_list/" + notes + '.md', notes_line3)
 
-    #os.mkdir(os.path.join("fig", notes))
+    os.mkdir(os.path.join("fig", notes))
 
 
 if __name__ == '__main__':
